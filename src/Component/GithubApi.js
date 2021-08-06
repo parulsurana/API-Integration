@@ -50,7 +50,7 @@ useEffect(() => {
            }
            else{
             setData(data);
-            setError(null);
+            setError(null)
            }
            
        })
